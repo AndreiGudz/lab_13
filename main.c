@@ -3,6 +3,8 @@
 #include <time.h>
 #include "StudentStruct.h"
 
+//hello
+
 #define SRandom srand(time(NULL))
 #define MathTop(value) topTenInMath(value)
 #define ListFilling(count, list)        \
